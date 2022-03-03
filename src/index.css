@@ -13,11 +13,11 @@ code {
 }
 
 /* Navbar */
-.ps-fixed {
+/* .ps-fixed {
   position: fixed;
   z-index: 1000;
   width: 100%;
-}
+} */
 .navbar-nav li a{
   font-size: 17px;
 }
